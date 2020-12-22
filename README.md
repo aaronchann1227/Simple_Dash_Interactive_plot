@@ -3,9 +3,9 @@
 ## Datasets
 https://www.kaggle.com/usdot/flight-delays
 
-Flights: Information of all the domestic flights in US in 2015.
-Airlines: All US major airlines and their IATA code.
-Airports: Information of all major airports in the US.
+1. Flights: Information of all the domestic flights in US in 2015.
+2. Airlines: All US major airlines and their IATA code.
+3. Airports: Information of all major airports in the US.
 
 
 ## To reproduce:
