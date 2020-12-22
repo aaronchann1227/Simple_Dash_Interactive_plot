@@ -10,7 +10,7 @@ https://www.kaggle.com/usdot/flight-delays
 
 ## To reproduce:
 	1. Download the data from kaggle and put them in the same working directory as app.py.
-	2. Run app.py in bash.
-	3. Go to the address shown in bash.
+	2. Run app.py in command line.
+	3. Go to the address shown in command line.
 
 
